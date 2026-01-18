@@ -135,7 +135,7 @@ PI_SAMPLE=3000 PI_REPEATS=2 PI_NJOBS=1 python app.py
 ## Demo
 
 **Dashboard walkthrough (video):**  
-[Click to play](assets/demo.mp4)
+[Click to play](assets/demo_small.mp4)
 
 [![Dashboard demo](assets/screenshots/demo_thumbnail.png)](assets/demo.mp4)
 
