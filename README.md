@@ -133,8 +133,8 @@ PI_SAMPLE=3000 PI_REPEATS=2 PI_NJOBS=1 python app.py
 ---
 
 ## Demo
-
-[![Dashboard demo](assets/screenshots/demo_thumbnail.png)](https://raw.githubusercontent.com/barata90/case-study-2-otp-service-delivery/main/assets/demo_small.mp4)
+link video demo: https://raw.githubusercontent.com/barata90/case-study-2-otp-service-delivery/main/assets/demo_small.mp4
+[![Dashboard demo](assets/screenshots/demo_thumbnail.png)]
 
 If playback does not start in the browser, open the link and download the MP4.
 
