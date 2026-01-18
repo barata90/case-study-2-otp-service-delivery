@@ -336,6 +336,8 @@ delay_art = train_severe_delay_model(train_c)
 # Dash app
 # ----------------------------
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+
+server = app.server
 app.title = "Case Study 2 — Operational Performance & Service Delivery"
 
 
