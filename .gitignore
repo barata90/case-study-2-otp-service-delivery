@@ -1,3 +1,5 @@
 *.mov
 *.mp4
 *.mov
+.DS_Store
+.ipynb_checkpoints/
